@@ -32,8 +32,12 @@ Este projeto foi desenvolvido como parte do desafio da DIO, com o objetivo de co
 ### 3. Prints das Tabelas Transformadas
 Abaixo estão os prints das tabelas após as transformações realizadas no Power Query Editor:
 
-> 
-
+![Localização](Empresa_dep_locations.png)
+![Departamentos](Empresa_department.png)
+![Dependentes](Empresa_dependent.png)
+![Empregados](Empresa_employee.png)
+![Projetos](Empresa_project.png)
+![Trabalham](Empresa_works_on.png)
 ---
 
 ## 📌 Próximos Passos (em andamento)
